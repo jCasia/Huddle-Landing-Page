@@ -154,6 +154,14 @@ body {
     padding: 0;
   }
 }
+
+.icons__list-container {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+  padding-left: 0;
+}
+
 .icons__nav-list {
   height: 2rem;
   width: 2rem;
