@@ -11,7 +11,7 @@ body {
 }
 
 .hero {
-  background-image: url("../../images/bg-desktop.svg"),
+  background-image: url("../images/bg-desktop.svg"),
     linear-gradient(rgba(103, 75, 175, 0.95), rgba(103, 75, 175, 0.95));
   min-height: 100vh;
   min-width: 100vw;
@@ -28,7 +28,7 @@ body {
     flex-direction: column;
     align-items: flex-start;
     gap: 2rem;
-    background-image: url("../../images/bg-mobile.svg"),
+    background-image: url("../images/bg-mobile.svg"),
       linear-gradient(rgba(103, 75, 175, 0.95), rgba(103, 75, 175, 0.95));
     padding: 1.5rem 3.5rem 1.5rem 3.5rem;
   }
