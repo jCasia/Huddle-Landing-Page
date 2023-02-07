@@ -1,0 +1,41 @@
+.icons {
+  grid-column: 1/-1;
+  grid-row: 3/4;
+
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+
+  @media only screen and (max-width: 43.75em) {
+    align-self: center;
+  }
+
+  &__nav-lists {
+    @media only screen and (max-width: 43.75em) {
+      padding: 0;
+    }
+  }
+  &__nav-list {
+    height: 2rem;
+    width: 2rem;
+    color: white;
+    background-color: $color-primary;
+    display: inline-block;
+    padding: 0.5rem;
+    border-radius: 50%;
+    border: 1px solid white;
+
+    transition: all 0.4s;
+
+    @media only screen and (max-width: 75em) {
+      height: 1.5rem;
+      width: 1.5rem;
+    }
+
+    &:hover,
+    &:active {
+      color: $color-secondary;
+      border: 1px solid $color-secondary;
+    }
+  }
+}
