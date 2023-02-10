@@ -17,6 +17,7 @@ For this challenge I had to create a landing page for Huddle, I thoroughly enjoy
 - Flexbox
 - CSS Grid
 
-### Author
+### Some screenshots of this project
 
-- Frontend Mentor - [@jCasia](https://www.frontendmentor.io/profile/jCasia)
+![](./images/huddledesktop.png)
+![](./images/huddlephone.png)
