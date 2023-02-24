@@ -6,7 +6,7 @@ For this challenge I had to create a landing page for Huddle, I thoroughly enjoy
 
 ### Links
 
-- My Live Site URL for this challenge: [Click Here](https://jcasia.github.io/Huddle-Landing-Page/)
+- My Live Site URL for this challenge: [Click Here](https://jcasia-huddle-landing-page.netlify.app/)
 - My Solution URL for this challenge: [Click here](https://www.frontendmentor.io/solutions/huddle-landing-page-XbOT-VsAbZ)
 
 ### Built with
